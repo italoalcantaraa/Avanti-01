@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'notoSans';
+    src: url('../../assets/fonts/NotoSans-Regular.ttf');
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'notoSans';
+    font-size: 15px;
+}
+
